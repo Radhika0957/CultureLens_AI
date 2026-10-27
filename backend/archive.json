@@ -1,0 +1,167 @@
+[
+  {
+    "id": "97de27b3-2b85-440b-b147-78d7c4bb5283",
+    "title": "Kathakali",
+    "region": "Belagavi",
+    "year": "1960",
+    "description": "",
+    "tags": [
+      "Traditional Dance Performance",
+      "Folk Music Performance",
+      "Traditional Musical Instrument",
+      "Traditional Indian Clothing",
+      "Classical Dance",
+      "Puppet Performance"
+    ],
+    "scores": [
+      {
+        "label": "traditional dance performance",
+        "score": 0.3539
+      },
+      {
+        "label": "folk music performance",
+        "score": 0.299
+      },
+      {
+        "label": "traditional musical instrument",
+        "score": 0.0987
+      },
+      {
+        "label": "traditional Indian clothing",
+        "score": 0.0689
+      },
+      {
+        "label": "classical dance",
+        "score": 0.0564
+      },
+      {
+        "label": "puppet performance",
+        "score": 0.0498
+      }
+    ],
+    "image_url": "/uploads/97de27b3-2b85-440b-b147-78d7c4bb5283.webp",
+    "created_at": "2026-10-27T08:37:14.519918+00:00",
+    "reviewed": false
+  },
+  {
+    "id": "e4c08a2e-d84f-4f10-a86b-f7b2a155bd17",
+    "title": "Menora",
+    "region": "Thiland",
+    "year": "1900",
+    "description": "",
+    "tags": [
+      "Traditional Dance Performance",
+      "Classical Dance",
+      "Religious Festival"
+    ],
+    "scores": [
+      {
+        "label": "traditional dance performance",
+        "score": 0.6877
+      },
+      {
+        "label": "classical dance",
+        "score": 0.1699
+      },
+      {
+        "label": "religious festival",
+        "score": 0.073
+      },
+      {
+        "label": "people in a cultural celebration",
+        "score": 0.0323
+      },
+      {
+        "label": "folk music performance",
+        "score": 0.0156
+      },
+      {
+        "label": "temple architecture",
+        "score": 0.0062
+      }
+    ],
+    "image_url": "/uploads/e4c08a2e-d84f-4f10-a86b-f7b2a155bd17.jpeg",
+    "created_at": "2026-10-27T08:43:20.549198+00:00",
+    "reviewed": false
+  },
+  {
+    "id": "46ae4475-222c-4912-b70a-0a59d089828f",
+    "title": "hampi",
+    "region": "KArnataka",
+    "year": "1800",
+    "description": "",
+    "tags": [
+      "Temple Architecture",
+      "Historic Monument"
+    ],
+    "scores": [
+      {
+        "label": "temple architecture",
+        "score": 0.9282
+      },
+      {
+        "label": "historic monument",
+        "score": 0.0483
+      },
+      {
+        "label": "classical dance",
+        "score": 0.0111
+      },
+      {
+        "label": "historic building",
+        "score": 0.0063
+      },
+      {
+        "label": "religious festival",
+        "score": 0.0013
+      },
+      {
+        "label": "museum artifact",
+        "score": 0.0012
+      }
+    ],
+    "image_url": "/uploads/46ae4475-222c-4912-b70a-0a59d089828f.jpeg",
+    "created_at": "2026-10-27T08:48:56.865244+00:00",
+    "reviewed": false
+  },
+  {
+    "id": "81e47626-9da0-4691-8ae4-2a20c23743b7",
+    "title": "ganesh",
+    "region": "Tamilnadu",
+    "year": "2026",
+    "description": "",
+    "tags": [
+      "Religious Festival",
+      "People In A Cultural Celebration"
+    ],
+    "scores": [
+      {
+        "label": "religious festival",
+        "score": 0.9069
+      },
+      {
+        "label": "people in a cultural celebration",
+        "score": 0.0594
+      },
+      {
+        "label": "traditional dance performance",
+        "score": 0.0087
+      },
+      {
+        "label": "temple architecture",
+        "score": 0.0074
+      },
+      {
+        "label": "classical dance",
+        "score": 0.004
+      },
+      {
+        "label": "puppet performance",
+        "score": 0.0027
+      }
+    ],
+    "image_url": "/uploads/81e47626-9da0-4691-8ae4-2a20c23743b7.jpeg",
+    "created_at": "2026-10-27T09:12:39.355890+00:00",
+    "reviewed": false
+  }
+]
